@@ -16,4 +16,4 @@ Please refer to following jupyter notebooks for code implementation.
 5. Text Difficulty-Topic Modelling-Final
 Features extracted from the first notebook “Text Difficulty-Feature Extraction-Final” has been used extensively in all notebooks to save computational time. 
 
-Please click on the [dataset](https://drive.google.com/drive/folders/1cLNySnwCvsXOII25XZwLlQji_Kr5koNH?usp=sharing) to download the dataset.
+Please click on the [dataset](https://drive.google.com/drive/folders/1cLNySnwCvsXOII25XZwLlQji_Kr5koNH?usp=sharing) to view the file.
